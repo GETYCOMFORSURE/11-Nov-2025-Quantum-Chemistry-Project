@@ -1,0 +1,11 @@
+qiskit
+qiskit-ibm-runtime
+qiskit-ibm-catalog
+qiskit-serverless
+qiskit-nature
+qiskit-aer
+jupyter
+numpy
+scipy
+matplotlib
+pylatexenc
